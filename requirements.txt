@@ -1,0 +1,5 @@
+gradio
+llama-index
+pymongo
+openai
+python-dotenv
